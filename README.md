@@ -3,6 +3,7 @@ Dorks for Shodan and Google
 
 ## Shodan
 `html:` - Search for HTML tags / code
+
 `http.favicon.hash` - Search for hash of a specific favicon, very efficient to find fresh/basic installations of software.
 
 
@@ -14,4 +15,8 @@ Dorks for Shodan and Google
 
 ### Horde Webmail Dorks
 `html:"horde_login"` - Shodan search for Horde webmail 
+
+
 `inurl:/imp/login.php` - Google
+
+
