@@ -27,6 +27,10 @@ Dorks for Shodan and Google
 
 ´country:xx http.status:200 http.component:odoo port:8069´ - After finding instances go to /web/database/manager most of the time there is either no password or it's "admin"
 
+`Model: PYNG-HUB Crestron` - IoT 
+`x-jenkins 200` - Internet facing Jenkins servers, some unauthenticated.
+
+
 ### Useful for identifying installations
 
 
