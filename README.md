@@ -25,7 +25,7 @@ Dorks for Shodan and Google
 
 `html:"def_wirelesspassword"` - HTML tag looking for passwords in source
 
-´country:xx http.status:200 http.component:odoo port:8069´ - After finding instances go to /web/database/manager most of the time there is either no password or it's "admin"
+`country:xx http.status:200 http.component:odoo port:8069` - After finding instances go to /web/database/manager most of the time there is either no password or it's "admin"
 
 `Model: PYNG-HUB Crestron` - IoT 
 `x-jenkins 200` - Internet facing Jenkins servers, some unauthenticated.
@@ -34,7 +34,7 @@ Dorks for Shodan and Google
 ### Useful for identifying installations
 
 
-`http.status:200` - Make sure it is has a 
+`http.status:200` - Useful for sorting search results
 
 `html:` - Search for HTML tags / code
 
