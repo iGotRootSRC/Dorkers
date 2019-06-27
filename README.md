@@ -22,7 +22,16 @@ Dorks for Shodan and Google
 
 `HTTP/1.1 307 Temporary Redirect Location: /containers country:"US"` - Container Advisor dork
 
+
+`html:"def_wirelesspassword"` - HTML tag looking for passwords in source
+
+´country:xx http.status:200 http.component:odoo port:8069´ - After finding instances go to /web/database/manager most of the time there is either no password or it's "admin"
+
 ### Useful for identifying installations
+
+
+`http.status:200` - Make sure it is has a 
+
 `html:` - Search for HTML tags / code
 
 `http.favicon.hash` - Search for hash of a specific favicon, very efficient to find fresh/basic installations of software.
