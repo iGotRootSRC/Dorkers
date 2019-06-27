@@ -16,7 +16,11 @@ Dorks for Shodan and Google
 
 `"polycom command shell"` - Polycom Video conference system no-auth shell, most have open web config admin try for fun 
 
+
 `NCR Port:"161"` - ATM's :-)
+
+
+`HTTP/1.1 307 Temporary Redirect Location: /containers country:"US"` - Container Advisor dork
 
 ### Useful for identifying installations
 `html:` - Search for HTML tags / code
