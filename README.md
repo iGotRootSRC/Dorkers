@@ -13,7 +13,10 @@ Dorks for Shodan and Google
 
 `port:23 console gateway -password` - Open telnet no PW required
 
+
 `"polycom command shell"` - Polycom Video conference system no-auth shell, most have open web config admin try for fun 
+
+`NCR Port:"161"` - ATM's :-)
 
 ### Useful for identifying installations
 `html:` - Search for HTML tags / code
