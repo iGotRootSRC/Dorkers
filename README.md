@@ -36,7 +36,7 @@ Dorks for Shodan and Google
 
 `http.status:200` - Useful for sorting search results
 
-`html:` - Search for HTML tags / code
+`html:` or `http.html:` - Search for HTML tags / code
 
 `http.favicon.hash` - Search for hash of a specific favicon, very efficient to find fresh/basic installations of software.
 
