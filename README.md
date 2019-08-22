@@ -2,6 +2,10 @@
 Dorks for Shodan and Google
 
 ## Shodan
+
+`http.html:/dana-na/` - SSL VPN That is vulnerable with RCE CVE-2019-11510
+
+
 `hacked-router-help-sos` - Hacked routers :-)
 
 
