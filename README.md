@@ -58,3 +58,9 @@ Dorks for Shodan and Google
 `inurl:/imp/login.php` - Google
 
 
+
+
+## BinaryEdge.io
+`http.body:dana-na ` - Find installations of Pulse VPN
+
+`ssl.cert.subject.commonName:*vpn.*` - Find SSL certs with vpn in sub-domain name - Uses Asteriks(*) for wildcard.
