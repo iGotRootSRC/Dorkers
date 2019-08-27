@@ -64,3 +64,5 @@ Dorks for Shodan and Google
 `http.body:dana-na ` - Find installations of Pulse VPN
 
 `ssl.cert.subject.commonName:*vpn.*` - Find SSL certs with vpn in sub-domain name - Uses Asteriks(*) for wildcard.
+
+`Fortinet security device httpd` - Finds fortinet SSL VPN installations - Some vulnerable to CVE-2018-13379
