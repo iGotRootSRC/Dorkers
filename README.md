@@ -68,3 +68,5 @@ Dorks for Shodan and Google
 `Fortinet security device httpd` - Finds fortinet SSL VPN installations - Some vulnerable to CVE-2018-13379
 
 `product:"Exim smtpd" version:<4.92` - Finds vulnerable Exim smtp servers - Vulnerable to multiple CVE's but mainly CVE-2019-15846
+
+
