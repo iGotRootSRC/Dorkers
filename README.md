@@ -66,3 +66,5 @@ Dorks for Shodan and Google
 `ssl.cert.subject.commonName:*vpn.*` - Find SSL certs with vpn in sub-domain name - Uses Asteriks(*) for wildcard.
 
 `Fortinet security device httpd` - Finds fortinet SSL VPN installations - Some vulnerable to CVE-2018-13379
+
+`product:"Exim smtpd" version:<4.92` - Finds vulnerable Exim smtp servers - Vulnerable to multiple CVE's but mainly CVE-2019-15846
