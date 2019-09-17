@@ -34,6 +34,7 @@ Dorks for Shodan and Google
 `Model: PYNG-HUB Crestron` - IoT 
 `x-jenkins 200` - Internet facing Jenkins servers, some unauthenticated.
 
+Other shodan queries can be found here: https://github.com/jakejarvis/awesome-shodan-queries
 
 ### Useful for identifying installations
 
