@@ -1,5 +1,10 @@
 # Dorkers
-Dorks for Shodan and Google
+Dorks for Shodan, BinaryEdge and Google
+
+Only for use on bug bounty programs or in cordination with a legal security assesment.
+I am in no way responsible for the usage of these search queries.
+Be responsible thanks - https://www.bugcrowd.com/resource/what-is-responsible-disclosure/
+
 
 ## Shodan
 
