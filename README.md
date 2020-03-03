@@ -35,6 +35,7 @@ Service |Google | Shodan | BinaryEdge | CVE/Exploit
 ### Google
 `inurl:%3Dhttps%3A%2F%2F` - Open redirect/SSRF/Local File Disclosure
 
+*Read ahrefs blog post to see all search operators for Google - https://ahrefs.com/blog/google-advanced-search-operators/*
 
 ### Shodan.io
 
@@ -63,13 +64,18 @@ Service |Google | Shodan | BinaryEdge | CVE/Exploit
 `x-jenkins 200` - Internet facing Jenkins servers, some unauthenticated. :O
 
 
+*Read the full list of filters for Shodan here - https://beta.shodan.io/search/filters*
+
 ### BinaryEdge.io
+
 
 `ssl.cert.subject.commonName:*vpn.*` - Find SSL certs with vpn in sub-domain name - Uses Asteriks(*) for wildcard.
 
 `Fortinet security device httpd` - Finds fortinet SSL VPN installations - Some vulnerable to CVE-2018-13379
 
 `product:"Exim smtpd" version:<4.92` - Finds vulnerable Exim smtp servers - Vulnerable to multiple CVE's but mainly CVE-2019-15846
+
+*Read the search Docs to find even more tags to use! - https://docs.binaryedge.io/search/*
 
 
 
